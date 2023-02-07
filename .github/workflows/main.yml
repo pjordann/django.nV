@@ -1,6 +1,7 @@
 stages:
  - build
+
 build:
- 	stage: build
-	script:	
-		- echo "Esto es un comando."
+ stage: build
+ script:	
+   - echo "Esto es un comando."
